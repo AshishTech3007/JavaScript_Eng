@@ -48,7 +48,7 @@ const parent=document.querySelector(".parentcontainer");
 //         characterDataOldValue:true
 //     }
 // );
-
+// comment added 
 // -----6------ 
 
 mutationobserver.observe(parent,
