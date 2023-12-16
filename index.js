@@ -50,6 +50,7 @@ const parent=document.querySelector(".parentcontainer");
 // );
 
 // -----6------ 
+
 mutationobserver.observe(parent,
     {
         characterData:true,
